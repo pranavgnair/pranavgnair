@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav G Nair
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning PG Diploma in Data Analytics and Machine Learning
+- 🌱 I have done my PG Diploma in Data Analytics and Machine Learning
 - 📫 You can reach me at pranavgnair2012@gmail.com
 
 <!---
